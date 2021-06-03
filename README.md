@@ -7,3 +7,7 @@ de acordo com os critérios estabelecidos. Atualmente os critérios são por fai
 caso seja funcionário da saúde.
 Ele possui muitas jframes no qual acabam fazendo as mesmas ações devido a existência de até 3 usuários no sistema, e para, preliminarmente apenas, evitar falhas de segurança, 
 cada tipo de usuário terá acesso a um grupo de telas.
+Agradecimentos: 
+Guilherme Mendes, Leonardo da Silva, Matheus Campos e Thalysson Lima (Eu mesmo) por fazerem parte da equipe de programação. 
+Kaio Nattan, Priscila Neves, Rhadija Dreige e Wilson Mendes por fazerem parte da equipe de modelagem.
+Universidade São Judas pela proposta do projeto semestral.
