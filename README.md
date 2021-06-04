@@ -10,4 +10,3 @@ cada tipo de usuário terá acesso a um grupo de telas.
 Agradecimentos: 
 Guilherme Mendes, Leonardo da Silva, Matheus Campos e Thalysson Lima (Eu mesmo) por fazerem parte da equipe de programação. 
 Kaio Nattan, Priscila Neves, Rhadija Dreige e Wilson Mendes por fazerem parte da equipe de modelagem.
-Universidade São Judas pela proposta do projeto semestral.
